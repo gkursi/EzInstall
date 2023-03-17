@@ -1,7 +1,7 @@
 # EzInstall 
 
 An easy way to create an installer for your program!<br>
-(Not finished yet)
+(V1 out)
 
 <b>Credit:</b>
 Me! (Qweru)
